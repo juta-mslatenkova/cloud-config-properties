@@ -1,6 +1,6 @@
 personal:
   greeting: Hello, World!
-  countryList: Latvia, Lithuania, Jamaica
+  countryList: Latvia, Lithuania, Jamaica, Spain
 db:
   connection: connection-1
   host: 127.0.0.1
