@@ -2,3 +2,4 @@ welcome:
   greeting: Hello, World from Config Server! - test  - 3
 personal:
   email: config@config.com -2
+  phone: 1234
