@@ -1,4 +1,4 @@
 welcome:
-  greeting: Hello, World from Config Server! - test 
+  greeting: Hello, World from Config Server! - test  -2
 personal:
-  email: config@config.com
+  email: config@config.com -2
